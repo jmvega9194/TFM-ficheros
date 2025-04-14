@@ -1,0 +1,251 @@
+producto_id,nombre_producto,categoria,precio_eur,unidades_stock
+1,Jersey gris manga corta,Ropa,91.77,69
+2,Camiseta azul entallado,Ropa,64.14,11
+3,Jersey amarillo sin mangas,Ropa,104.2,15
+4,Chaqueta gris sin mangas,Ropa,66.05,65
+5,Jersey gris oversize,Ropa,16.67,21
+6,Falda blanco entallado,Ropa,11.0,31
+7,Abrigo beige manga corta,Ropa,32.14,51
+8,Falda amarillo oversize,Ropa,55.66,21
+9,Top blanco entallado,Ropa,108.22,26
+10,Pantalón beige oversize,Ropa,67.7,21
+11,Jersey negro manga corta,Ropa,19.24,76
+12,Camisa azul entallado,Ropa,69.74,30
+13,Jersey amarillo manga larga,Ropa,58.14,93
+14,Top azul manga corta,Ropa,79.25,69
+15,Pantalón gris oversize,Ropa,117.3,36
+16,Abrigo beige manga corta,Ropa,39.9,26
+17,Falda gris manga larga,Ropa,92.89,41
+18,Chaqueta verde oversize,Ropa,47.85,84
+19,Falda gris sin mangas,Ropa,108.61,99
+20,Chaqueta verde manga larga,Ropa,15.88,93
+21,Vestido rojo manga corta,Ropa,93.95,48
+22,Top beige oversize,Ropa,30.31,8
+23,Sudadera negro oversize,Ropa,48.31,9
+24,Vestido azul manga larga,Ropa,65.24,76
+25,Sudadera verde oversize,Ropa,112.44,97
+26,Jersey blanco entallado,Ropa,114.88,88
+27,Camiseta amarillo manga larga,Ropa,91.3,36
+28,Camiseta beige entallado,Ropa,43.33,49
+29,Vestido blanco entallado,Ropa,55.28,32
+30,Falda azul oversize,Ropa,28.96,8
+31,Sudadera blanco oversize,Ropa,101.26,83
+32,Camisa azul sin mangas,Ropa,34.12,19
+33,Camiseta negro manga larga,Ropa,40.26,27
+34,Sudadera gris oversize,Ropa,22.51,95
+35,Camisa rojo oversize,Ropa,44.7,66
+36,Falda azul entallado,Ropa,110.96,12
+37,Sudadera gris entallado,Ropa,78.65,70
+38,Camisa azul manga larga,Ropa,45.07,42
+39,Falda verde entallado,Ropa,46.65,41
+40,Abrigo amarillo entallado,Ropa,70.59,38
+41,Jersey negro manga corta,Ropa,101.89,76
+42,Vestido negro sin mangas,Ropa,78.81,74
+43,Falda rojo oversize,Ropa,111.09,66
+44,Top verde sin mangas,Ropa,110.0,66
+45,Abrigo beige sin mangas,Ropa,25.28,99
+46,Camiseta azul entallado,Ropa,83.62,42
+47,Top rojo sin mangas,Ropa,117.4,60
+48,Vestido rojo manga corta,Ropa,16.66,41
+49,Top azul manga corta,Ropa,74.65,75
+50,Vestido verde manga corta,Ropa,118.46,59
+51,Falda gris manga larga,Ropa,40.85,28
+52,Top azul sin mangas,Ropa,88.55,97
+53,Falda verde manga corta,Ropa,50.47,83
+54,Vestido azul oversize,Ropa,66.24,97
+55,Vestido blanco sin mangas,Ropa,63.53,77
+56,Chaqueta gris sin mangas,Ropa,46.53,67
+57,Sudadera amarillo entallado,Ropa,43.87,56
+58,Top gris manga corta,Ropa,10.68,12
+59,Vestido verde sin mangas,Ropa,109.85,29
+60,Falda gris manga corta,Ropa,66.98,19
+61,Jersey beige oversize,Ropa,114.52,93
+62,Falda rojo manga corta,Ropa,12.42,57
+63,Abrigo beige manga corta,Ropa,27.49,78
+64,Sudadera rojo manga corta,Ropa,32.31,30
+65,Falda beige oversize,Ropa,60.21,59
+66,Camisa azul manga larga,Ropa,73.65,16
+67,Pantalón beige manga larga,Ropa,78.41,87
+68,Pantalón negro sin mangas,Ropa,105.11,25
+69,Pantalón negro oversize,Ropa,12.14,25
+70,Jersey beige entallado,Ropa,76.49,5
+71,Abrigo amarillo manga corta,Ropa,108.2,70
+72,Sudadera amarillo sin mangas,Ropa,31.85,62
+73,Vestido azul manga corta,Ropa,105.42,95
+74,Sudadera rojo oversize,Ropa,55.56,24
+75,Camisa blanco sin mangas,Ropa,95.0,83
+76,Abrigo verde entallado,Ropa,94.35,23
+77,Pantalón gris oversize,Ropa,49.46,60
+78,Jersey gris manga larga,Ropa,109.36,92
+79,Jersey negro entallado,Ropa,74.6,73
+80,Pantalón blanco manga larga,Ropa,96.65,27
+81,Chaqueta amarillo entallado,Ropa,114.86,99
+82,Top negro manga corta,Ropa,87.14,14
+83,Abrigo beige sin mangas,Ropa,38.9,97
+84,Chaqueta beige oversize,Ropa,93.7,86
+85,Camiseta negro manga corta,Ropa,65.79,84
+86,Camiseta negro oversize,Ropa,17.98,100
+87,Chaqueta negro entallado,Ropa,92.32,92
+88,Camisa blanco entallado,Ropa,111.51,93
+89,Falda rojo oversize,Ropa,45.96,50
+90,Vestido azul manga corta,Ropa,97.6,18
+91,Falda verde manga larga,Ropa,60.2,91
+92,Vestido negro manga corta,Ropa,50.35,18
+93,Chaqueta rojo manga larga,Ropa,93.9,99
+94,Pantalón verde sin mangas,Ropa,50.68,14
+95,Camiseta azul manga corta,Ropa,115.82,47
+96,Vestido blanco manga larga,Ropa,69.69,16
+97,Abrigo beige manga corta,Ropa,95.53,75
+98,Jersey blanco sin mangas,Ropa,87.79,18
+99,Sudadera azul manga larga,Ropa,84.41,60
+100,Abrigo azul manga corta,Ropa,98.58,5
+101,Camisa rojo oversize,Ropa,72.2,22
+102,Camiseta amarillo oversize,Ropa,11.29,11
+103,Vestido gris sin mangas,Ropa,107.23,96
+104,Camisa amarillo entallado,Ropa,84.57,66
+105,Sudadera rojo entallado,Ropa,68.99,79
+106,Falda negro manga larga,Ropa,41.86,15
+107,Vestido rojo sin mangas,Ropa,39.53,86
+108,Falda negro sin mangas,Ropa,80.1,74
+109,Pantalón negro oversize,Ropa,62.31,11
+110,Jersey azul manga corta,Ropa,116.49,91
+111,Abrigo beige oversize,Ropa,55.85,72
+112,Abrigo verde manga corta,Ropa,91.69,79
+113,Top rojo entallado,Ropa,96.13,67
+114,Falda verde manga larga,Ropa,99.33,25
+115,Pantalón blanco oversize,Ropa,72.89,34
+116,Abrigo verde sin mangas,Ropa,42.76,46
+117,Pantalón negro manga corta,Ropa,59.38,50
+118,Chaqueta blanco entallado,Ropa,21.15,10
+119,Pantalón blanco entallado,Ropa,16.1,69
+120,Chaqueta blanco manga corta,Ropa,27.97,35
+121,Vestido verde entallado,Ropa,81.36,44
+122,Abrigo negro sin mangas,Ropa,78.13,24
+123,Sudadera gris manga larga,Ropa,64.72,33
+124,Pantalón blanco manga corta,Ropa,104.5,33
+125,Vestido gris manga larga,Ropa,87.78,9
+126,Sudadera gris manga corta,Ropa,65.39,52
+127,Vestido azul manga larga,Ropa,77.73,72
+128,Pantalón verde entallado,Ropa,94.95,14
+129,Falda verde manga corta,Ropa,31.71,35
+130,Chaqueta rojo entallado,Ropa,118.19,7
+131,Camiseta rojo manga larga,Ropa,69.12,88
+132,Chaqueta negro entallado,Ropa,39.36,44
+133,Abrigo azul manga larga,Ropa,41.55,56
+134,Abrigo gris entallado,Ropa,105.72,87
+135,Camiseta negro oversize,Ropa,56.13,18
+136,Camisa negro sin mangas,Ropa,103.97,66
+137,Camisa negro oversize,Ropa,56.35,30
+138,Jersey gris sin mangas,Ropa,24.81,65
+139,Pantalón gris oversize,Ropa,11.01,13
+140,Jersey blanco sin mangas,Ropa,73.9,48
+141,Camiseta azul manga larga,Ropa,110.91,99
+142,Chaqueta blanco oversize,Ropa,118.79,13
+143,Sudadera azul manga larga,Ropa,29.12,13
+144,Abrigo rojo sin mangas,Ropa,65.84,39
+145,Falda rojo manga corta,Ropa,39.97,7
+146,Jersey verde oversize,Ropa,17.85,50
+147,Falda negro oversize,Ropa,84.1,8
+148,Falda azul manga larga,Ropa,44.83,58
+149,Pantalón amarillo sin mangas,Ropa,56.37,100
+150,Jersey amarillo manga larga,Ropa,23.93,73
+151,Sudadera amarillo entallado,Ropa,103.45,56
+152,Vestido amarillo oversize,Ropa,34.6,93
+153,Chaqueta rojo oversize,Ropa,119.44,89
+154,Jersey gris manga larga,Ropa,29.63,89
+155,Vestido azul oversize,Ropa,51.75,49
+156,Camisa blanco sin mangas,Ropa,114.69,82
+157,Falda azul manga corta,Ropa,93.07,40
+158,Jersey verde manga larga,Ropa,12.01,52
+159,Falda verde sin mangas,Ropa,88.74,73
+160,Pantalón azul entallado,Ropa,58.71,75
+161,Chaqueta negro manga corta,Ropa,23.94,65
+162,Pantalón negro sin mangas,Ropa,77.73,60
+163,Camisa blanco entallado,Ropa,14.82,25
+164,Vestido amarillo entallado,Ropa,112.93,27
+165,Camisa blanco entallado,Ropa,81.34,44
+166,Jersey amarillo manga corta,Ropa,113.54,38
+167,Abrigo negro sin mangas,Ropa,34.76,57
+168,Abrigo azul sin mangas,Ropa,73.6,12
+169,Sudadera amarillo entallado,Ropa,60.2,13
+170,Abrigo rojo manga larga,Ropa,108.27,35
+171,Top gris oversize,Ropa,87.47,65
+172,Vestido azul manga corta,Ropa,69.34,60
+173,Top amarillo manga larga,Ropa,72.14,87
+174,Camiseta azul manga larga,Ropa,13.31,94
+175,Falda negro manga larga,Ropa,23.24,51
+176,Falda beige manga corta,Ropa,58.91,39
+177,Pantalón verde oversize,Ropa,114.37,77
+178,Abrigo verde manga corta,Ropa,109.54,59
+179,Vestido blanco oversize,Ropa,93.03,7
+180,Top gris sin mangas,Ropa,45.36,36
+181,Camiseta gris oversize,Ropa,60.86,17
+182,Jersey verde entallado,Ropa,78.65,71
+183,Camisa amarillo oversize,Ropa,100.12,36
+184,Camisa negro oversize,Ropa,88.89,53
+185,Jersey rojo sin mangas,Ropa,20.57,47
+186,Abrigo gris oversize,Ropa,102.77,61
+187,Jersey azul sin mangas,Ropa,43.53,43
+188,Camiseta blanco manga corta,Ropa,30.64,59
+189,Vestido azul sin mangas,Ropa,23.77,42
+190,Camiseta verde oversize,Ropa,85.51,9
+191,Camiseta beige oversize,Ropa,106.88,60
+192,Camisa gris entallado,Ropa,71.05,58
+193,Pantalón verde sin mangas,Ropa,18.33,83
+194,Vestido verde manga larga,Ropa,20.61,71
+195,Falda blanco manga larga,Ropa,22.96,71
+196,Abrigo azul manga larga,Ropa,117.49,66
+197,Vestido azul oversize,Ropa,94.42,52
+198,Jersey amarillo manga corta,Ropa,78.4,29
+199,Chaqueta verde manga corta,Ropa,27.21,93
+200,Vestido verde manga corta,Ropa,90.44,78
+201,Pantalón negro sin mangas,Ropa,88.5,28
+202,Chaqueta verde manga corta,Ropa,90.56,95
+203,Jersey negro entallado,Ropa,82.97,53
+204,Camisa verde oversize,Ropa,98.03,90
+205,Falda rojo sin mangas,Ropa,101.39,78
+206,Jersey amarillo manga corta,Ropa,107.32,81
+207,Chaqueta negro oversize,Ropa,60.98,37
+208,Camisa rojo oversize,Ropa,70.5,67
+209,Falda beige manga corta,Ropa,113.25,71
+210,Top blanco manga corta,Ropa,61.31,100
+211,Camisa gris manga corta,Ropa,58.63,18
+212,Sudadera negro entallado,Ropa,51.77,60
+213,Chaqueta rojo entallado,Ropa,78.73,29
+214,Vestido azul manga corta,Ropa,102.6,91
+215,Falda verde entallado,Ropa,28.69,85
+216,Falda blanco manga larga,Ropa,93.02,68
+217,Falda beige oversize,Ropa,30.88,74
+218,Abrigo gris manga larga,Ropa,70.07,94
+219,Sudadera blanco sin mangas,Ropa,23.72,74
+220,Abrigo verde oversize,Ropa,28.39,22
+221,Falda blanco entallado,Ropa,83.93,44
+222,Vestido negro sin mangas,Ropa,78.25,17
+223,Falda rojo manga corta,Ropa,32.8,9
+224,Top blanco entallado,Ropa,89.91,34
+225,Chaqueta beige manga corta,Ropa,50.17,51
+226,Vestido verde oversize,Ropa,79.7,97
+227,Chaqueta amarillo entallado,Ropa,49.3,17
+228,Abrigo negro sin mangas,Ropa,35.5,88
+229,Vestido blanco manga corta,Ropa,114.94,100
+230,Camisa amarillo sin mangas,Ropa,117.02,78
+231,Chaqueta azul entallado,Ropa,59.23,14
+232,Abrigo beige oversize,Ropa,96.15,32
+233,Top blanco entallado,Ropa,108.58,56
+234,Sudadera blanco oversize,Ropa,21.78,54
+235,Abrigo amarillo manga larga,Ropa,25.35,31
+236,Vestido beige oversize,Ropa,38.35,14
+237,Camiseta rojo sin mangas,Ropa,95.53,45
+238,Falda blanco oversize,Ropa,64.61,25
+239,Jersey azul entallado,Ropa,85.4,90
+240,Abrigo azul manga corta,Ropa,24.43,12
+241,Top amarillo manga larga,Ropa,100.84,67
+242,Vestido gris oversize,Ropa,90.53,18
+243,Sudadera amarillo manga larga,Ropa,108.2,47
+244,Top beige sin mangas,Ropa,117.1,48
+245,Chaqueta gris sin mangas,Ropa,117.42,56
+246,Camiseta amarillo entallado,Ropa,80.83,84
+247,Vestido negro sin mangas,Ropa,118.55,49
+248,Top negro oversize,Ropa,102.09,30
+249,Chaqueta amarillo oversize,Ropa,112.56,50
+250,Top blanco sin mangas,Ropa,42.28,24

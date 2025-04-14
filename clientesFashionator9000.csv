@@ -1,0 +1,701 @@
+cliente_id,nombre,genero,fecha_nacimiento,fecha_registro,ciudad
+1,Flavio Fajardo Amaya,F,1971-01-14,2005-04-01,Madrid
+2,Eric Rosa Gonzalez,M,1977-06-21,2014-03-18,Barcelona
+3,Hermenegildo Mir Zamorano,M,1987-11-21,2008-04-20,Valladolid
+4,Joaquín Carrasco Rovira,F,2001-12-23,2005-08-22,Alicante
+5,Cayetano Escrivá Aramburu,M,1950-05-01,2015-08-19,Alicante
+6,Clarisa Bautista Blázquez,M,1955-03-29,2003-05-17,Hospitalet
+7,Marta de Ayuso,F,1963-10-06,2009-08-11,Palma
+8,Desiderio Sobrino Giménez,M,1976-03-13,2006-01-10,Vigo
+9,Nydia Batalla Castells,F,1988-12-25,2008-03-10,Valencia
+10,Benita Méndez Pou,M,1989-12-08,2017-03-08,Valencia
+11,Jonatan Eleuterio Quintanilla Giménez,F,1968-05-06,2010-01-07,Hospitalet
+12,Iker Barón Estévez,M,1961-05-03,2009-06-21,Gijón
+13,Eric Benítez Gimenez,F,1990-07-06,2015-02-27,Murcia
+14,Lisandro Hernández Ríos,F,2000-11-25,2019-09-11,Madrid
+15,Angelina Matas,M,1980-06-26,2000-05-03,Valencia
+16,Beatriz del Piña,F,1976-09-23,2019-07-31,Sevilla
+17,Edmundo Rosales,F,1955-09-18,2004-09-17,Barcelona
+18,Adrián Sala Perelló,M,1960-12-28,2018-08-28,Córdoba
+19,Nerea Pérez,M,1958-07-01,2008-04-08,Valencia
+20,Marco Ferrer,F,1983-02-24,2020-07-09,Barcelona
+21,Sonia Sabina Leal Pazos,M,1969-10-15,1999-12-12,Barcelona
+22,Candelas Emiliana Somoza Manrique,M,1952-03-24,2020-09-23,Barcelona
+23,Pedro Lillo Pinedo,F,1989-09-07,2017-03-13,Barcelona
+24,Almudena Salcedo Alcalde,M,1974-08-19,2016-02-20,Vigo
+25,Juan Carlos Navas Coloma,F,1970-08-27,2004-06-18,Barcelona
+26,Leandro Ledesma Villalobos,F,1956-08-26,2020-07-18,Zaragoza
+27,Fernando Vicens,M,1960-12-24,2019-10-23,Málaga
+28,Gastón Buendía-Uriarte,F,1963-10-19,2019-07-25,Alicante
+29,Elodia Cabello Zamorano,M,1975-01-20,2009-11-06,Madrid
+30,Ariel Escudero Manzanares,M,2002-07-27,2000-06-19,Murcia
+31,Florencia Amores,M,1954-04-05,2023-12-05,Córdoba
+32,Ildefonso del Amador,F,1953-03-31,2011-05-11,Gijón
+33,Adriana Vallés Morcillo,F,1982-04-23,2019-05-31,Gijón
+34,Adoración Bravo-Alsina,M,1987-01-06,2002-12-01,Valladolid
+35,Asunción Palmira Vall Barberá,M,1988-01-11,2000-01-19,Vigo
+36,Ema Falcón,F,1991-02-24,2001-08-06,Valladolid
+37,Trini Gras Jiménez,M,1959-10-31,2018-08-06,Córdoba
+38,Yéssica Blanch-Puente,F,1980-12-10,2017-04-18,Palma
+39,Tatiana Valencia Quiroga,F,1993-02-14,2019-11-21,Valencia
+40,Apolinar Piña Ropero,M,1989-12-01,2007-05-07,Vigo
+41,Carlos Carlos Bayón,F,1974-03-24,2013-07-10,Zaragoza
+42,Emma Román Villalobos,M,1959-10-07,2020-05-28,Murcia
+43,Priscila Bilbao,F,1962-06-15,1999-03-24,Zaragoza
+44,Piedad Milla Perelló,F,1999-12-03,2012-06-04,Bilbao
+45,Manu Santamaría Gonzalez,M,1952-01-19,2021-02-27,Zaragoza
+46,Eladio Gómez Ballesteros,F,1951-06-16,2002-07-02,Barcelona
+47,Lorenzo Boada-Pozuelo,M,2003-02-10,2008-06-17,Hospitalet
+48,Ester Manzanares,M,2003-09-16,2001-04-08,Córdoba
+49,Micaela Jaén Cánovas,F,1976-09-28,2017-06-21,Murcia
+50,Benigno Aranda Artigas,M,1968-12-13,2002-07-28,Madrid
+51,Eligio Ramírez Álvarez,F,1973-04-19,2021-12-18,Hospitalet
+52,Hortensia Escolano Girón,F,1960-04-27,2001-06-22,Valencia
+53,Paola Seco Echeverría,F,1986-05-13,2020-07-01,Alicante
+54,Sonia Carreño Cabañas,F,1958-09-05,2005-03-08,Valladolid
+55,Anunciación Arana Sala,M,1992-10-11,2001-04-15,Alicante
+56,Lucho del Carbonell,M,1970-02-27,2003-04-23,Valladolid
+57,Ascensión Fuente Moliner,F,1962-12-18,2011-08-12,Vigo
+58,Manolo del Garcés,M,1965-10-10,2023-06-08,Valladolid
+59,Ramón Cases Calvet,M,2003-01-18,2009-02-26,Palma
+60,Cristian Gomez Pérez,F,1981-11-09,2013-10-28,Málaga
+61,Fausto Arteaga Belda,F,1990-06-26,2004-12-23,Sevilla
+62,Chelo Nevado Teruel,F,1952-09-13,2009-07-17,Madrid
+63,Ramona del Tirado,M,1996-06-28,2015-12-13,Bilbao
+64,Jose Ramón Pera Godoy,M,1963-07-23,2023-07-13,Hospitalet
+65,Lara Gisbert Agustín,F,1958-12-11,2012-09-11,Hospitalet
+66,Benigno Martin Rocha,F,1981-03-17,2009-08-04,Valencia
+67,Maricruz Millán Cuervo,F,1974-01-06,2012-05-11,Palma
+68,Alejandro Salmerón Recio,M,1994-04-07,2016-04-15,Hospitalet
+69,Ambrosio Hidalgo Arévalo,F,1992-09-05,2013-07-08,Gijón
+70,Severo Mateo-Gaya,F,1981-05-27,2016-02-04,Zaragoza
+71,María Del Carmen Ochoa Busquets,F,1956-02-07,2018-11-10,Valladolid
+72,Leonel Huguet Nebot,F,2003-09-18,2003-04-23,Zaragoza
+73,Brunilda Corbacho Vargas,F,1955-03-11,2022-08-23,Gijón
+74,Gisela Aurelia Bueno Lobo,M,1950-07-26,2017-05-31,Vigo
+75,Vicente de Barco,F,1999-01-29,2016-09-20,Alicante
+76,Natividad Berrocal Téllez,F,1995-04-18,2023-01-06,Palma
+77,Mar Almagro Lucena,M,1977-08-03,2019-08-09,Madrid
+78,Edu Moles-Vila,M,1999-10-05,2013-10-29,Murcia
+79,Paz Capdevila Exposito,F,1996-05-18,2014-04-24,Gijón
+80,Nico Bustamante Porcel,M,1998-03-01,2010-08-12,Sevilla
+81,Sandalio Hoz Vives,F,1976-03-09,2010-09-06,Málaga
+82,Jafet Hoz-Machado,F,1960-10-07,2009-09-11,Córdoba
+83,Albino Aguado Perales,M,1965-06-05,1999-05-09,Córdoba
+84,Nicodemo Higueras Gil,F,1960-05-08,2002-02-11,Málaga
+85,Manuela Sánchez Acevedo,F,1958-01-04,2018-01-18,Hospitalet
+86,Odalys Vilalta-Mateos,M,1954-12-09,2020-12-25,Zaragoza
+87,Lucía Pallarès-Alba,F,1957-03-18,2008-05-19,Alicante
+88,Hermenegildo Bautista,F,1982-09-29,2002-06-19,Barcelona
+89,Ildefonso Adadia Tejera,F,1993-01-01,2008-08-05,Murcia
+90,Isabela Ferrero Armas,M,1973-02-18,2001-07-10,Madrid
+91,Liliana Jordán-Fuertes,M,1954-11-13,2015-02-02,Bilbao
+92,Genoveva Guillén-Gibert,F,1991-11-25,2018-10-31,Hospitalet
+93,Leonor Mireia Duarte Coll,M,1963-10-04,2010-10-10,Bilbao
+94,Jeremías Adadia Sales,F,1962-04-09,2016-08-24,Sevilla
+95,Kike de Esparza,F,1991-02-24,2004-03-06,Bilbao
+96,Candelario Fajardo Correa,M,1963-06-04,2008-01-27,Sevilla
+97,Chema de Porras,M,1955-10-03,2018-06-28,Córdoba
+98,Soraya del Casal,M,1969-11-12,2010-03-23,Córdoba
+99,Luisina Rozas Berrocal,F,1951-09-09,2014-11-13,Barcelona
+100,Cirino Dalmau Benavente,F,1979-06-09,2002-06-10,Hospitalet
+101,Luis Miguel del Cuadrado,M,1951-03-25,1999-12-28,Gijón
+102,Victorino Huertas,M,1955-05-11,2007-03-03,Palma
+103,Ambrosio del López,F,1955-03-16,2006-05-21,Zaragoza
+104,Calixto Hernán Sarabia Rius,F,1963-06-30,2007-03-10,Palma
+105,Rosalva Oliver,M,1990-08-30,2001-11-15,Palma
+106,Aníbal Prudencio Bejarano Crespi,F,1990-04-30,2001-07-29,Bilbao
+107,Elodia Núñez Almagro,M,1958-03-26,2012-10-02,Vigo
+108,Felicidad Gilabert Requena,M,1955-03-29,2016-11-05,Barcelona
+109,Nuria Gallart Arenas,M,1959-12-27,2002-09-25,Murcia
+110,Arturo Montero Lorenzo,F,1956-05-13,2022-03-09,Madrid
+111,Darío Coloma Losada,F,1979-06-13,2020-01-12,Palma
+112,Teo Baena Amaya,M,1980-08-29,2012-07-26,Valencia
+113,Bibiana Perelló Montoya,M,1967-09-25,2021-06-16,Alicante
+114,Purificación Múñiz Bernal,F,1997-05-22,2003-10-28,Murcia
+115,Alejo Flavio Flor Requena,M,1960-01-06,2010-08-20,Palma
+116,Reinaldo Jáuregui Bermúdez,F,1976-01-08,2012-03-11,Barcelona
+117,Sandra Fortuny-Gaya,F,1953-09-01,1999-08-16,Vigo
+118,María Sastre Feijoo,F,1981-03-20,2022-11-03,Alicante
+119,Guillermo Carvajal,F,1963-03-29,2002-04-04,Zaragoza
+120,Fernando Toro Ribes,M,1961-12-12,2023-11-14,Murcia
+121,Domitila Lara-Pagès,M,1954-03-28,2018-01-16,Sevilla
+122,Ramona Hierro Serrano,F,1956-05-14,2016-04-28,Hospitalet
+123,Leandro Goicoechea Torrent,M,2002-01-20,2011-06-29,Murcia
+124,Albina del Casado,F,1975-07-21,2007-09-11,Hospitalet
+125,Lucía Bermejo,F,1998-07-26,2016-10-13,Palma
+126,María Manuela Portero Elorza,M,1979-09-23,2006-02-19,Murcia
+127,Conrado Iker Rodrigo Aguilera,M,2003-04-30,2022-03-08,Vigo
+128,Victor Serra Quintanilla,M,2003-01-13,2006-10-28,Palma
+129,Custodio Jacobo Posada Durán,F,1954-08-11,2021-11-12,Alicante
+130,Heliodoro Madrid,F,1994-11-08,2023-12-12,Barcelona
+131,Lorenzo Borja Balaguer,F,1953-10-13,2010-06-20,Valencia
+132,Marcelo Valcárcel Fajardo,M,1967-08-19,2016-04-21,Palma
+133,Susanita Cobos Baena,M,1970-05-12,2012-12-02,Madrid
+134,Marino de Serra,F,1980-02-01,2019-11-12,Sevilla
+135,René Ale Pla Velasco,F,1987-10-20,2003-06-12,Málaga
+136,Segismundo Inocencio Juliá Toledo,M,1986-08-21,2009-04-18,Hospitalet
+137,Mar Salmerón,M,1964-11-24,2013-08-14,Madrid
+138,Martina Gomis-Cueto,M,1965-05-26,1999-08-26,Valencia
+139,Victor Amador Pozuelo,F,1994-08-10,2003-07-16,Málaga
+140,Inés Piedad Piñol Hierro,F,2003-04-21,2005-12-27,Valencia
+141,Duilio de Buendía,F,1985-12-01,2015-10-18,Madrid
+142,Juan José Peral Becerra,M,2002-09-15,2021-11-16,Barcelona
+143,Custodia Borrás Galán,F,1965-07-26,2013-12-30,Zaragoza
+144,Román Mur Carranza,F,1981-01-29,2000-02-21,Vigo
+145,Isidora Clotilde Casal Ríos,M,1992-06-09,2024-01-05,Valencia
+146,Gema del Gárate,M,1972-08-14,2015-04-05,Valencia
+147,Amor Gracia Bermejo,F,1975-03-11,2017-10-17,Palma
+148,Nazario Rosselló,F,1960-05-13,2000-01-09,Murcia
+149,Alicia Barrera Ocaña,M,1989-05-18,2010-08-14,Murcia
+150,Patricia Santamaría Palomar,M,1981-08-26,2010-03-28,Barcelona
+151,Agustina Morell Perez,F,1950-12-09,2016-04-16,Murcia
+152,Porfirio Roig Hoz,M,1986-01-25,2008-02-14,Alicante
+153,Odalys Trillo Villena,M,1993-11-25,2001-05-05,Valencia
+154,Palmira Mateos Santos,F,1952-09-14,2007-08-05,Gijón
+155,Albino del Muñoz,M,1983-12-25,2004-12-11,Gijón
+156,Haydée Barrera Cruz,F,1951-04-14,2011-03-20,Alicante
+157,Florentino Ariño,M,1958-12-27,2005-03-06,Sevilla
+158,Alondra Canals Borja,F,2002-01-21,2018-07-01,Córdoba
+159,Piedad del Girona,F,1976-11-24,2018-08-27,Murcia
+160,Joaquín Valero Vilalta León,F,1958-12-30,2007-02-22,Madrid
+161,Viviana Llamas Morata,M,1964-01-02,2003-12-25,Málaga
+162,Juan Pablo de Lago,F,1999-12-06,2012-07-15,Vigo
+163,Octavio Simó,F,1988-03-16,2014-12-10,Alicante
+164,Clara Arco Mínguez,F,1962-09-26,2023-06-13,Valladolid
+165,Paloma Alba Martinez,F,1954-01-08,2019-03-31,Murcia
+166,Renata Arenas Tormo,F,1966-02-17,2018-12-19,Vigo
+167,María Dolores Escribano Iniesta,M,1989-12-27,2001-12-08,Hospitalet
+168,Omar Real Nebot,F,1970-07-27,2019-01-20,Hospitalet
+169,Gaspar Verdú Mendez,F,1984-05-19,2006-04-03,Zaragoza
+170,Severo Jafet Rueda Reig,M,1956-07-10,2016-08-13,Madrid
+171,Ramona Mercedes Carmona Cañas,M,1985-11-20,2004-01-06,Murcia
+172,Severiano Correa Pozuelo,F,1964-05-23,2012-05-02,Valladolid
+173,Lisandro Aller Estévez,F,1977-02-13,2000-07-07,Alicante
+174,Aurelia Aroa Marti Abril,M,1976-08-21,2021-12-02,Zaragoza
+175,Eutropio Osorio Tudela,M,1964-12-03,2017-08-16,Palma
+176,Lidia Vizcaíno Domínguez,M,1971-02-09,2009-05-16,Málaga
+177,Mariana de Coronado,F,1988-03-02,2011-08-12,Murcia
+178,Griselda Seco Raya,M,1998-06-23,2002-05-21,Murcia
+179,Jorge Barreda Uribe,M,1972-11-19,2004-07-11,Zaragoza
+180,Marita Gallego-Gibert,F,1975-11-06,2009-01-02,Alicante
+181,Quique Bonifacio Beltrán Valderrama,M,1995-09-07,2013-05-06,Gijón
+182,Manu Busquets Ariza,F,1958-05-14,2020-06-25,Valladolid
+183,Luisina Prado Guardia,F,1965-12-01,2011-04-09,Valencia
+184,Aurora Ocaña Santiago,F,1993-10-31,2012-01-27,Zaragoza
+185,Humberto Revilla Lobato,F,1998-04-19,2021-02-20,Palma
+186,Ruth Folch Sanjuan,M,1973-07-30,2008-05-01,Zaragoza
+187,Rosalva Barbero,F,1999-11-15,2006-02-08,Málaga
+188,Áurea Viñas Oller,M,1988-08-29,1999-09-09,Madrid
+189,Roxana Larrañaga Almeida,M,1987-04-27,2023-07-12,Vigo
+190,Judith Peiró Carpio,F,1961-08-03,2006-10-08,Murcia
+191,Cebrián Cerdán Sala,F,1981-01-29,2003-06-07,Alicante
+192,Leandra Carlos,F,1995-11-01,2023-12-16,Valladolid
+193,Efraín Cobo Carbonell,M,1972-04-05,2015-01-23,Sevilla
+194,Albina Talavera,F,1952-09-21,2007-11-15,Valladolid
+195,José Antonio Taboada Aguilar,M,1981-02-17,2018-10-04,Valencia
+196,Diego Andreu Naranjo,M,2003-05-24,2006-03-03,Sevilla
+197,Faustino Arnau Cabello,F,1956-06-14,2020-11-21,Málaga
+198,Águeda Luz Santamaria Carrera,M,2000-09-22,2016-08-15,Bilbao
+199,María Dolores Codina Sanz,F,1989-10-07,2007-02-05,Murcia
+200,Maura Mayo Cabrera,F,1966-11-14,2021-05-19,Alicante
+201,Estrella Peralta Mir,F,1950-02-05,2006-01-05,Valencia
+202,Martina Arnau Ferrández,M,1962-10-24,2000-08-22,Gijón
+203,Jerónimo Frutos,M,1978-06-11,2020-11-08,Gijón
+204,Felisa Casares Páez,M,1983-11-26,2013-04-21,Sevilla
+205,Celestina Cobo Mayoral,F,1996-07-28,2003-02-02,Gijón
+206,Dulce Tamarit Folch,M,1955-01-30,2006-07-05,Palma
+207,Victor Manuel de Carrera,M,2002-05-11,2007-04-03,Sevilla
+208,Lucila Morán-Cañas,F,2000-02-27,2022-03-25,Palma
+209,Judith Mayo-Palomino,M,1997-02-22,1999-05-31,Valladolid
+210,Ciríaco Cózar Sabater,F,1972-08-04,2015-06-30,Barcelona
+211,Nico Oliveras Marí,F,1951-04-03,2000-09-08,Valladolid
+212,Remigio Molins Valverde,M,1977-12-23,2020-12-31,Valencia
+213,Ángel Duarte-Jerez,F,1986-02-08,2023-04-26,Murcia
+214,Félix de Morata,M,1996-10-02,2011-10-10,Valencia
+215,Cipriano Carrión-Suárez,M,1991-09-30,2000-04-30,Córdoba
+216,Adán Quirino Giner Menendez,F,1967-03-13,2019-05-22,Palma
+217,Adelardo Bellido Hidalgo,M,1967-09-13,2022-07-16,Bilbao
+218,Renato Expósito Feliu,F,1960-11-27,2001-06-06,Málaga
+219,Violeta Quintero Hervia,M,1950-07-25,2021-10-15,Córdoba
+220,Rosa Mínguez Galvez,M,1983-12-07,2012-03-23,Hospitalet
+221,Julián Esparza Vallejo,F,2000-05-17,2005-05-25,Hospitalet
+222,Natanael Castell-Santiago,M,1982-03-11,2002-01-06,Hospitalet
+223,Efraín Víctor Alcázar Viana,F,1986-07-22,2004-11-15,Sevilla
+224,Lina Agustí Frutos,M,2002-12-23,2017-07-17,Murcia
+225,Olegario Machado Cortes,M,1950-08-30,2002-10-07,Madrid
+226,Narcisa Lopez-Costa,M,1951-03-17,2018-09-16,Vigo
+227,Mayte Villalonga-Alberdi,M,2001-06-06,2003-05-27,Gijón
+228,Almudena Miralles-Oller,F,1993-12-17,2006-11-01,Zaragoza
+229,Catalina Teruel Mercader,M,1951-12-20,1999-03-12,Gijón
+230,Lisandro Mesa Escobar,M,1995-11-06,2017-09-24,Gijón
+231,Santos de Esteban,F,1969-05-29,2004-01-22,Vigo
+232,Ascensión Montes,F,1955-01-20,2014-01-19,Vigo
+233,Estela Malo Grau,M,1964-03-21,2002-08-24,Valencia
+234,Tadeo Barriga Blanes,F,1995-09-13,2015-08-16,Bilbao
+235,Clímaco Nadal,M,1994-08-31,2016-01-17,Bilbao
+236,Morena Arteaga Figueras,F,1997-10-13,2012-02-29,Barcelona
+237,Teófilo Grande Correa,M,1980-11-04,2007-10-08,Gijón
+238,Rosario Casares Recio,M,1993-04-01,2022-03-13,Córdoba
+239,Olga Marqués Solano,F,1957-07-07,2011-05-25,Gijón
+240,Julieta Guardia Bernad,F,1956-06-15,2023-09-06,Valencia
+241,Susanita Carlos,F,1991-12-11,2023-04-22,Málaga
+242,Graciano Vidal Valencia,M,2003-08-19,2009-09-26,Sevilla
+243,Rosalía Mármol Fuster,F,1951-03-21,2006-07-20,Barcelona
+244,Jacobo del Gomila,M,1992-05-27,2021-12-03,Vigo
+245,Amada del Solano,F,1960-04-11,2004-09-14,Barcelona
+246,Nélida Múgica Viñas,M,1997-10-18,2023-06-22,Hospitalet
+247,Ámbar Villegas Navarro,M,1953-09-18,2020-04-04,Valladolid
+248,Josep Alfonso Mariño Poza,M,1961-09-08,2011-06-30,Valencia
+249,Felipe Aliaga Boada,M,1996-06-14,2012-03-11,Bilbao
+250,Máxima Eli Alarcón Enríquez,M,1960-12-23,2011-01-10,Palma
+251,Fabián de Marcos,F,1986-05-09,2023-04-11,Valencia
+252,Susana Reguera Barranco,F,1997-12-15,2017-05-10,Murcia
+253,Andrea Carro Amores,M,1975-02-01,2022-01-02,Bilbao
+254,Fanny Cortina Egea,M,1954-11-02,2022-12-22,Gijón
+255,Maxi Fuster Frutos,M,1995-10-07,1999-08-07,Barcelona
+256,Amparo Buendía Bustos,F,1992-09-25,2023-07-20,Murcia
+257,Eladio Flores Benet,M,1995-10-15,2020-07-06,Hospitalet
+258,Azahar Chamorro Gallo,M,1954-03-29,2008-12-31,Málaga
+259,Carlos Olivares Gual,F,1997-02-09,2021-02-28,Zaragoza
+260,Trinidad Martín-Ariza,F,1973-12-24,2005-12-14,Valencia
+261,Encarnita Marin Alcázar,M,1980-08-31,2024-01-24,Vigo
+262,Artemio Arsenio Colomer Costa,F,1993-06-23,2021-04-13,Palma
+263,Ildefonso de Mariscal,F,1973-06-15,2015-02-27,Hospitalet
+264,Laura Castro Piña,M,1976-06-25,2016-01-30,Murcia
+265,Bernabé Figueras-Hidalgo,F,1998-09-25,2008-07-29,Málaga
+266,Calisto Mata Vizcaíno,M,2002-08-04,2017-01-10,Valladolid
+267,César Alegria Villegas,M,2002-10-24,2015-04-25,Madrid
+268,Ágata Castañeda-Fajardo,M,1981-07-06,2018-10-19,Barcelona
+269,Gastón Dueñas Perea,F,1962-04-12,2001-10-01,Sevilla
+270,Aitor Gutierrez-Diéguez,M,1955-03-08,2007-02-15,Madrid
+271,Albano Reyes Jáuregui,F,1990-12-07,2021-11-06,Zaragoza
+272,Roldán del Abascal,F,1950-04-28,2003-03-12,Barcelona
+273,Balduino Ribera Ibáñez,M,1992-07-26,2014-02-17,Hospitalet
+274,Nicolás Maestre Jove,M,1956-10-09,2010-07-27,Bilbao
+275,Haydée Corral-Polo,F,1950-03-24,2017-10-05,Málaga
+276,Jose Ramón Vergara Jurado,F,1953-01-06,2019-07-29,Barcelona
+277,Tamara Girona Zamorano,F,1975-09-25,2015-09-15,Palma
+278,Micaela Badía,F,1980-06-17,2017-03-04,Sevilla
+279,Desiderio Rodrigo Castilla,M,1990-01-10,2015-06-11,Valencia
+280,Fidela Plana Pinto,F,1972-09-02,2015-10-18,Palma
+281,Ibán Sainz Cámara,F,1963-11-13,2009-06-23,Bilbao
+282,Jose Ignacio Fonseca Fiol,F,1986-09-06,2013-05-13,Valladolid
+283,Samuel Reynaldo Agullo Murcia,F,2002-01-23,2007-03-06,Sevilla
+284,Ismael Requena Cortés,M,1992-08-02,2014-02-06,Murcia
+285,Jose Carlos Galindo Álvaro,F,1999-04-14,2010-11-20,Madrid
+286,Bernabé Taboada Pallarès,F,1957-05-02,1999-04-04,Gijón
+287,Yolanda del Fernandez,F,1955-02-11,2001-04-05,Barcelona
+288,Florina Armengol Osuna,M,1957-11-25,2023-06-08,Vigo
+289,Lidia Sol Vazquez Macías,F,1969-07-25,2016-06-12,Zaragoza
+290,Che Farré Sedano,M,1950-09-06,2018-02-26,Valladolid
+291,Olivia Palau Belda,F,2003-08-21,2018-09-03,Valladolid
+292,Nazaret Alcalá Chamorro,M,1989-10-22,2004-01-22,Sevilla
+293,Marcelo Amor Lucena,F,1983-04-22,2010-11-15,Valencia
+294,Teodoro Pacheco Amador,M,1961-12-11,2016-12-14,Sevilla
+295,Valentina Gil Arco,M,1994-04-21,2021-08-30,Madrid
+296,Cristóbal del Pomares,F,2001-08-15,2018-02-20,Vigo
+297,Eliseo Clavero-Piñeiro,F,1999-03-30,2017-05-26,Vigo
+298,Francisco Javier Abascal-Seco,F,1990-03-27,2015-04-28,Alicante
+299,Chema Vélez Andrés,F,1968-11-05,2002-01-04,Zaragoza
+300,Primitivo Badía-Benito,F,1955-08-27,2014-07-03,Madrid
+301,Iker Andrés Figueras,F,1951-06-02,2013-12-26,Barcelona
+302,Rafaela Muro Pujol,F,1987-01-14,2009-09-10,Málaga
+303,Marcial Daza Morillo,F,1963-06-13,2006-12-09,Hospitalet
+304,Custodio Arnal,M,1985-09-30,2018-09-20,Madrid
+305,Cayetana Manzanares,M,1982-08-23,2005-06-11,Murcia
+306,Ángela del Suarez,F,1965-04-17,2016-12-04,Zaragoza
+307,Plácido Olivé Quirós,M,1992-07-25,2009-08-17,Alicante
+308,Germán Fernández Alegre,M,1976-05-28,2008-07-13,Gijón
+309,Dora Salmerón Torrents,M,1998-08-07,2004-05-01,Vigo
+310,Óscar Cabrera Teruel,F,1983-02-02,2018-12-28,Palma
+311,Trinidad Aramburu-Querol,M,1974-12-24,2012-12-23,Hospitalet
+312,Gema Roda Guitart,M,1954-01-17,2008-10-28,Sevilla
+313,Rosalva del Angulo,M,1953-12-17,2013-04-08,Madrid
+314,Clímaco Arroyo Asensio,M,1978-07-21,2004-04-21,Zaragoza
+315,Tere Marí Terrón,F,2003-11-22,2010-02-17,Gijón
+316,Esther Campos-Carro,M,1981-07-15,2009-03-15,Murcia
+317,Cándido Pino Lledó,F,1990-04-14,2017-07-08,Alicante
+318,Amancio Valencia Olivera,M,1951-10-31,2011-07-01,Málaga
+319,Jose Carlos Company Ros,M,1963-12-03,2007-06-25,Bilbao
+320,Chus de Barberá,M,1975-11-06,2012-06-13,Málaga
+321,Augusto Olivera Ballesteros,M,1967-06-12,2015-06-29,Barcelona
+322,Remedios del Higueras,F,1993-07-18,2013-02-04,Córdoba
+323,Pepito Cabeza Zabaleta,F,2001-04-23,2005-07-06,Málaga
+324,Adelaida Ileana Bustos Sanmiguel,M,1967-02-12,2008-12-23,Bilbao
+325,Yaiza Clavero Galindo,F,1990-01-07,2023-09-21,Hospitalet
+326,Urbano Hidalgo Ferrera,F,1984-06-29,2021-09-17,Córdoba
+327,América Escrivá,F,1993-04-23,2018-11-19,Bilbao
+328,Lope Bonilla Barrena,F,1962-01-04,2015-01-31,Barcelona
+329,Julio César Agustí Uribe,F,1981-09-17,2013-07-23,Zaragoza
+330,Moreno Ulises Bueno Cardona,F,1993-11-23,2004-01-10,Valladolid
+331,Íñigo Tena Cobos,F,2002-09-01,2003-12-12,Córdoba
+332,Pastora Corona Rodríguez Arnau,F,1954-01-02,2003-12-24,Barcelona
+333,Balduino del Roldán,M,1976-07-17,2023-06-18,Madrid
+334,René Rubio,F,1951-07-19,2015-06-27,Gijón
+335,Manu Pomares-Anglada,M,1999-03-15,2018-01-21,Hospitalet
+336,Amaro Jerónimo Rius Lloret,M,1994-12-31,2001-10-18,Valladolid
+337,Tito Hernández Pomares,M,1999-03-09,2018-01-13,Valencia
+338,Pastora Muro Cabo,F,1971-06-15,2000-03-16,Vigo
+339,Marisela Acuña Mateu,M,1953-01-05,2018-11-22,Sevilla
+340,Milagros Cadenas Báez,F,2002-04-11,2004-12-29,Málaga
+341,Nando Montaña,M,1958-04-27,2003-11-11,Vigo
+342,Consuelo Almudena Castilla Castilla,M,1967-07-31,2017-04-06,Zaragoza
+343,Octavio Madrigal,F,2000-05-15,2016-05-01,Bilbao
+344,Juan Manuel Benítez Rosell,M,1954-08-05,2016-01-07,Murcia
+345,Ciríaco Roldán Gomila,F,1983-08-16,2002-05-24,Zaragoza
+346,Celestina Morante Alfonso,F,1985-07-13,2013-01-13,Murcia
+347,Salud Cerro Ayuso,M,1992-03-31,2022-06-26,Barcelona
+348,Ciro Arcos Miralles,F,1992-08-25,2014-10-01,Sevilla
+349,Lara Roselló Calleja,M,1979-03-28,2002-10-01,Valladolid
+350,Rómulo Barba Manuel,F,1994-12-13,2014-10-07,Alicante
+351,Lilia Anaya Garay,F,1986-07-24,2016-07-09,Málaga
+352,Miriam Sancho,M,1997-06-21,2014-11-10,Valencia
+353,Tito Amores,M,1992-04-26,2021-05-10,Valladolid
+354,David Díez,M,1986-10-15,2017-12-07,Vigo
+355,Cirino Carpio Nogués,F,1980-09-13,2017-09-13,Sevilla
+356,Valentina Pedro Pinto,F,1977-08-23,2013-04-25,Gijón
+357,Maricela Valenzuela-Calderón,F,2002-11-06,2018-06-17,Palma
+358,Américo de Calvo,F,2002-03-01,2005-04-25,Valladolid
+359,Chuy Martin Sanmartín Cantero,F,1957-09-01,2018-12-13,Barcelona
+360,Cruz Lamas Reig,M,1960-04-01,2000-03-01,Málaga
+361,Matilde Ochoa Font,M,1998-07-22,2020-01-15,Córdoba
+362,Ruth Santamaría,F,1957-11-14,2013-09-19,Valladolid
+363,María Teresa Santiago,F,1984-06-08,2020-09-12,Sevilla
+364,Amaya Chacón Villegas,M,1957-11-29,2001-07-02,Alicante
+365,Fabiana Alberdi Nuñez,M,1958-11-23,2000-04-11,Sevilla
+366,Toño Quesada Espejo,M,1978-07-14,2008-03-22,Gijón
+367,Jose Angel Puente Calleja,M,1985-11-21,2002-06-06,Vigo
+368,Juana Iris Linares Coronado,F,1962-05-10,1999-01-08,Barcelona
+369,Eliana de Agullo,F,1994-06-14,2001-10-08,Valladolid
+370,Bartolomé Arroyo-Huertas,F,1950-07-16,2012-07-25,Murcia
+371,Régulo Mayo Llanos,M,1997-01-27,2009-03-11,Córdoba
+372,Itziar Portero Gil,M,1964-12-31,2017-09-24,Sevilla
+373,Gerónimo Simó Vendrell,M,1952-05-18,2023-04-28,Córdoba
+374,Fernanda Echevarría Terrón,F,1982-03-21,2008-09-18,Murcia
+375,Sol Cintia Gomila Villalba,M,1972-09-26,2021-11-17,Palma
+376,Mateo Julián Roma,M,1952-05-12,2007-12-19,Barcelona
+377,Rubén Giner Alsina,F,1972-07-01,1999-12-19,Madrid
+378,Paz Castelló,F,1996-03-11,2015-10-17,Zaragoza
+379,Carlito Mena Asenjo,F,1959-09-15,2011-05-10,Madrid
+380,Luis Ángel Solera-Barrios,F,1970-01-28,2016-10-12,Madrid
+381,Irma Blasco Correa,M,1972-10-07,2001-09-20,Valencia
+382,Hernando Ferrándiz,M,2000-05-05,2009-10-11,Barcelona
+383,Epifanio Carreño Pombo,M,1968-07-31,2002-08-12,Hospitalet
+384,Matías Lluch Calderon,F,1962-06-05,2023-05-01,Murcia
+385,Maxi de Samper,F,1992-06-12,2008-08-15,Murcia
+386,Raimundo Alcázar Merino,M,1977-06-29,2013-04-22,Málaga
+387,Mario Guijarro Almagro,M,1987-06-02,2021-10-27,Málaga
+388,Celso Pintor Acevedo,M,1984-04-11,2022-06-10,Palma
+389,Rosendo Gárate Porta,F,1953-12-01,2013-08-14,Palma
+390,Eligia Roberta Roig Llamas,F,1974-08-02,2006-08-16,Sevilla
+391,Nilda Briones Morera,F,1992-07-17,2013-10-02,Madrid
+392,Leopoldo Zapata Ayuso,F,1954-06-21,2006-06-21,Barcelona
+393,Hipólito Zabaleta Saura,F,2000-03-18,2016-12-25,Valencia
+394,Ale Hernandez,M,1983-08-21,2006-03-18,Alicante
+395,Amalia Heredia,M,1981-06-05,2012-10-15,Zaragoza
+396,Salomé Bello Roldan,M,1958-08-07,2002-01-07,Alicante
+397,Álvaro Herrera,F,1971-09-01,2021-06-20,Murcia
+398,Hernán Valencia Luna,M,1986-08-01,2005-04-28,Valladolid
+399,Anselmo del Carreras,F,1966-09-20,2001-02-14,Gijón
+400,Emperatriz Beltrán-Diéguez,M,1990-10-13,2021-03-27,Málaga
+401,Luna Rosell Cornejo,F,1970-06-09,2004-12-16,Barcelona
+402,Dora Suarez Azorin,M,1962-08-09,2001-09-18,Madrid
+403,Esperanza del Cabeza,M,1976-03-16,2018-05-21,Murcia
+404,Che de Salamanca,F,1993-03-17,2016-12-22,Córdoba
+405,Amaro Santamaría Castelló,M,1981-05-05,2017-10-16,Barcelona
+406,Jimena Cáceres,F,1952-12-08,2016-09-04,Valladolid
+407,Fernanda Borrell-Rodríguez,M,1983-06-22,2017-09-07,Vigo
+408,Regina Marin Valera,M,1999-12-26,2002-03-11,Vigo
+409,Bárbara Roldan Valero,F,1964-03-17,2015-12-14,Zaragoza
+410,Celia del Galiano,F,1958-12-29,2023-12-21,Vigo
+411,Lina Oliveras Hernando,F,2003-03-16,2013-09-06,Valencia
+412,Alejo de Maza,M,1979-08-29,2001-09-26,Murcia
+413,Alex Manzanares Peralta,M,1957-05-18,2016-11-23,Madrid
+414,Alcides Márquez Castro,M,1990-08-01,2004-01-24,Sevilla
+415,Teófila Ramos Garcia,M,1986-09-03,2019-04-15,Vigo
+416,Nazaret Alegria Molins,M,2000-04-08,2008-05-22,Hospitalet
+417,Teodora Perea Osorio,F,1998-08-21,2016-06-08,Palma
+418,Héctor del Girón,M,1950-05-09,2008-10-28,Córdoba
+419,Juan Luis Seguí Gomis,F,1974-12-10,2020-11-06,Vigo
+420,Azahara Santiago Guzman,F,1951-03-24,2020-06-24,Sevilla
+421,Encarnita Peral,F,1955-10-07,2007-07-15,Sevilla
+422,Ignacia Carpio Abad,F,1979-03-30,2009-06-08,Vigo
+423,Sabina Blazquez Cámara,M,1995-11-03,2000-01-15,Palma
+424,Caridad Bonilla Alcázar,M,1961-05-16,2010-11-15,Hospitalet
+425,Almudena Aguilera Bernad,F,1988-10-07,1999-09-12,Bilbao
+426,Martina Atienza Leal,F,1970-01-29,2007-03-04,Valladolid
+427,Bautista Andrés Lasa,F,1980-06-12,2000-05-16,Palma
+428,Pili Blanca Rey,F,1955-08-04,2011-04-02,Alicante
+429,Toni Company Palacio,M,1979-08-26,2022-02-02,Valladolid
+430,Donato Elorza Perea,F,1960-10-16,2022-09-25,Bilbao
+431,Elba Gárate Lloret,M,1957-12-12,2009-08-07,Córdoba
+432,Julio César Sanchez Iglesias,M,1976-09-16,2015-06-19,Palma
+433,Juan Luis Cano Elías,M,1963-06-23,2014-12-11,Murcia
+434,Buenaventura Aurelio Barrios Murcia,F,1992-03-18,2008-08-23,Málaga
+435,Julia Bayo Sáez,F,1960-06-11,2022-06-18,Sevilla
+436,Jose Ramón Benjamín Vallés Gomis,M,2002-12-03,2022-01-22,Zaragoza
+437,Joan Nicolau Roman,M,1978-02-03,2004-03-10,Sevilla
+438,Encarna Villaverde,M,1952-11-08,2001-06-03,Bilbao
+439,Mirta Aller Palomar,M,1996-10-04,2020-12-07,Hospitalet
+440,Bibiana Rueda Robledo,F,1997-10-26,2009-11-03,Córdoba
+441,Nélida Dolores Boada Rivero,F,1995-09-18,2004-03-06,Alicante
+442,Ricarda Maestre Murcia,F,2002-07-12,2007-08-12,Córdoba
+443,Isabel Heredia,M,1993-12-06,2004-06-04,Murcia
+444,Maristela Cabello Pozo,M,1974-08-26,2000-04-16,Madrid
+445,Cecilio Ledesma Fajardo,M,1998-04-11,1999-07-20,Valladolid
+446,Eric Pavón Ureña,M,1957-07-23,2002-05-03,Zaragoza
+447,Apolinar Noguera Maza,M,1971-10-31,2007-05-25,Gijón
+448,Cándido de Verdejo,M,1985-09-06,2001-08-07,Alicante
+449,Amalia Villalonga Aguilar,M,1953-11-18,2016-10-26,Sevilla
+450,Macaria Cabello Pellicer,M,1999-07-28,2012-09-29,Barcelona
+451,Mónica Abril Casanova,F,1955-12-31,1999-06-22,Bilbao
+452,Tatiana Ibáñez Cardona,F,1975-10-06,2023-07-12,Madrid
+453,Javier Piña Arnaiz,M,1969-04-27,2002-10-11,Hospitalet
+454,Guiomar Carnero Peiró,F,1967-03-02,2011-12-31,Sevilla
+455,Leoncio Moreno Cabo,M,1964-03-26,2014-10-04,Madrid
+456,Aránzazu de Guillen,M,1993-06-26,2009-01-02,Valencia
+457,Dafne Roura Linares,M,1976-10-05,2017-07-13,Murcia
+458,Débora de Quirós,F,1978-12-18,2015-05-24,Sevilla
+459,Ángel Granados Cabañas,M,1990-02-23,2002-01-29,Alicante
+460,Bernardita Menendez-Goñi,F,1995-09-18,2001-08-07,Málaga
+461,Dafne Carmen Clemente Morán,M,1986-03-13,2013-02-03,Bilbao
+462,Baudelio Domingo Sureda Borrás,F,1991-09-18,2007-12-06,Córdoba
+463,Silvia Merino Aramburu,F,2000-03-16,2006-03-02,Vigo
+464,Lina Calvo Peinado,M,2003-04-19,2016-02-29,Sevilla
+465,Dimas Castejón Puig,M,1952-02-27,2007-09-17,Madrid
+466,Susana Roca Abad,M,1985-02-08,2022-02-08,Valencia
+467,Milagros Mateo Águila,M,1953-04-13,2013-08-24,Zaragoza
+468,Cristóbal Enrique Tirado Catalán,M,1992-02-26,2008-07-14,Gijón
+469,Nico Godoy,F,1983-01-03,2002-05-22,Valladolid
+470,Isaac Montalbán Torrents,M,1989-01-09,2017-12-31,Sevilla
+471,Victoria del Godoy,F,2003-01-18,2013-07-04,Murcia
+472,Rafa Escribano Ripoll,F,1982-07-07,2011-03-09,Bilbao
+473,Alexandra Hilda Rosell Sierra,F,1991-03-26,2000-04-02,Valladolid
+474,María Del Carmen de Segura,F,1968-02-25,2003-07-24,Palma
+475,Nilda Maestre Leon,M,1968-05-22,2019-03-10,Hospitalet
+476,Guiomar Alfonso Bello,M,1956-06-16,2010-11-10,Madrid
+477,Macarena Robles Suarez,F,1983-09-09,2008-07-25,Alicante
+478,Federico Polo Botella,F,1962-11-23,2003-09-22,Alicante
+479,Marcela Iglesias Luján,M,1980-08-24,2009-03-30,Gijón
+480,Fidela Dalmau Llamas,M,1979-07-12,2000-12-18,Gijón
+481,Anastasia Somoza Tamayo,M,1961-01-03,1999-11-23,Sevilla
+482,Benjamín Guillén Pacheco,M,1995-08-30,2023-04-30,Valencia
+483,Marisa Mayo Nadal,F,1992-05-09,2007-06-13,Gijón
+484,Candelaria Coronado-Manso,M,1973-05-17,2007-02-27,Gijón
+485,Florencio Maximiano León Cal,F,1983-04-20,2017-12-12,Zaragoza
+486,Roxana Barba-Guijarro,M,1997-11-15,2019-09-28,Málaga
+487,Salud del Rivera,F,1959-06-17,2006-08-23,Murcia
+488,Alonso Ayuso Pulido,M,1961-09-30,2021-02-26,Hospitalet
+489,Paula Gutierrez-Vara,F,1987-02-09,2009-11-01,Hospitalet
+490,Irma España Aller,F,1995-11-12,2007-07-05,Barcelona
+491,Heriberto Lumbreras Noriega,M,1990-01-05,2015-08-18,Murcia
+492,Amparo Vila-Caparrós,M,1963-10-24,2023-01-30,Murcia
+493,Rolando Villena Rey,F,1993-04-14,2008-01-16,Murcia
+494,Ruth Amorós-Alfonso,F,1987-08-09,2023-05-16,Bilbao
+495,Daniela Luís Marquez,M,1969-09-29,2005-10-06,Valladolid
+496,Fito Vázquez Gracia,M,1968-12-06,2017-03-04,Vigo
+497,Arcelia América Nicolau Tudela,F,1990-04-05,2017-03-18,Hospitalet
+498,Aitana Plana,M,1965-08-19,2023-09-01,Córdoba
+499,Susana Santamaría Pardo,F,1950-10-19,2001-03-21,Sevilla
+500,Angelita Santamaría Tamayo,F,1983-08-26,2002-11-02,Málaga
+501,Miriam Agudo Tovar,M,1998-10-22,2012-02-24,Alicante
+502,Javier Puerta,F,1974-07-30,2023-04-04,Valladolid
+503,Marisa del Escribano,M,1989-07-24,2020-04-09,Valencia
+504,Miriam Bárcena Rosado,F,1957-09-17,2013-11-23,Zaragoza
+505,Marcos Cardona Perez,F,1984-03-10,2018-09-25,Madrid
+506,Leonel Guijarro,M,1980-09-21,2011-05-02,Alicante
+507,Patricio Ribes Perelló,F,1980-10-27,1999-02-13,Alicante
+508,Olivia Marí Juan,M,1983-11-10,2012-07-22,Gijón
+509,José Mari Moll-Vendrell,M,1969-07-24,2020-08-26,Alicante
+510,Victoriano Monreal,F,1958-03-15,2008-11-21,Alicante
+511,Flavio Saavedra Millán,M,1964-10-06,2019-06-27,Gijón
+512,Domitila Pereira Casares,M,1987-04-15,2019-06-26,Vigo
+513,Ignacia Escobar-Roldán,M,1958-12-01,2005-02-12,Hospitalet
+514,Emigdio Olivé-Gárate,M,1984-07-19,2019-01-11,Alicante
+515,Julián Benjamín Bárcena Manuel,F,1999-02-27,2018-06-19,Murcia
+516,Haroldo Trinidad Román Dalmau,M,1952-05-04,2004-05-03,Palma
+517,Dionisia de Alsina,M,1975-09-21,2016-04-15,Sevilla
+518,Adelardo Millán Rosales,F,1987-07-07,2010-06-12,Valencia
+519,Hermenegildo Alcaraz Galindo,F,2001-12-20,2011-05-09,Málaga
+520,Leticia Bernal Madrigal,F,1951-06-27,2024-01-09,Sevilla
+521,Gaspar Costa Galán,M,1969-04-11,2021-06-10,Bilbao
+522,Mariano Torrent Esparza,F,1989-07-15,2020-10-09,Madrid
+523,Simón Redondo Carmona,F,1962-07-25,2005-02-18,Zaragoza
+524,Felisa Alfonso Carrión,F,1990-04-28,2013-01-10,Gijón
+525,Felipe Pineda Carreño,F,1981-01-07,2001-10-05,Sevilla
+526,Conrado Epifanio Uribe Ruiz,F,1988-05-16,2006-10-24,Alicante
+527,Olga Palau Conesa,M,1969-03-23,2016-05-04,Bilbao
+528,Emma Arnau,M,1997-05-10,2016-02-08,Palma
+529,Iris Pascual-Conde,M,1953-10-12,2018-05-08,Valladolid
+530,Valentina Santiago-Ángel,M,1963-01-28,2007-03-21,Murcia
+531,Chucho Antón Valcárcel,M,1979-10-04,2012-02-17,Palma
+532,Juan Francisco Almagro Bou,M,1972-05-22,2003-12-13,Vigo
+533,Encarnación Mascaró,F,1991-02-18,2005-08-13,Barcelona
+534,Wálter Sevilla Batlle,F,1954-02-01,2006-07-08,Málaga
+535,Elvira Iriarte-Espinosa,F,1960-12-30,2017-10-11,Zaragoza
+536,Úrsula Vidal,F,1981-01-06,2016-09-20,Gijón
+537,Felix del Tejada,F,1953-11-20,2015-09-13,Palma
+538,Delfina Pombo-Palau,M,1965-01-20,2011-11-21,Hospitalet
+539,Valero Maestre Arjona,F,1950-10-06,2002-03-08,Hospitalet
+540,Nuria Vazquez Perez,M,1966-11-23,2003-08-29,Vigo
+541,Vicente Galindo Teruel,F,1966-12-05,1999-04-22,Valladolid
+542,Brígida Jaén,F,1985-06-07,2000-03-02,Hospitalet
+543,Édgar Sevilla,F,1952-01-31,2019-07-04,Murcia
+544,Anselma Díaz,F,1960-10-18,2019-02-03,Palma
+545,Claudia del Pazos,M,1962-08-25,2020-04-22,Valladolid
+546,Godofredo León Albero Pagès,F,1951-08-29,2000-07-17,Córdoba
+547,Amaro Sureda Huguet,M,1989-11-22,2003-07-10,Palma
+548,Moisés Gabino Pacheco Jimenez,F,1978-08-19,2013-08-27,Zaragoza
+549,Charo Cabañas Aranda,F,1969-08-06,2001-11-21,Vigo
+550,Perlita Viñas,F,1953-12-09,1999-07-06,Sevilla
+551,Ester del Chaves,M,1976-01-15,2013-05-08,Bilbao
+552,Ildefonso Barrena,M,1955-06-12,2020-09-02,Córdoba
+553,Abril Reyes Dávila Egea,F,1997-03-30,2001-07-01,Madrid
+554,René Azcona Barceló,F,1982-03-30,2006-10-16,Bilbao
+555,Plácido Casals Portero,M,1996-06-12,2004-09-08,Barcelona
+556,Olegario Iglesia Cañas,M,1958-11-19,2015-11-10,Hospitalet
+557,Adoración Francisca Padilla Heras,F,1979-05-26,2018-05-17,Vigo
+558,Nazario Casal Camps,M,2003-05-07,2006-01-08,Barcelona
+559,Bernardo Borrell,F,1970-02-24,2018-12-07,Gijón
+560,Cirino Rodriguez Estevez,F,1960-08-21,2000-12-30,Hospitalet
+561,Marcial Conrado Amat Ramirez,F,1960-12-23,2019-04-08,Sevilla
+562,Cesar Arribas Gomis,F,1976-12-01,2020-04-29,Valladolid
+563,Jafet Bernal Ocaña,F,2002-04-21,1999-07-08,Bilbao
+564,Gracia Arnaiz Aragonés,F,1982-12-09,2000-07-05,Córdoba
+565,Vera Jaén-Verdú,M,1964-04-24,2001-08-12,Sevilla
+566,Etelvina Alcázar Montesinos,F,1988-11-14,2005-12-16,Sevilla
+567,Lorenzo Vall Vendrell,M,1984-01-11,2014-07-26,Sevilla
+568,Godofredo Ropero Conde,M,1987-06-29,2019-09-09,Hospitalet
+569,Eva María Paniagua Posada,F,1968-01-10,2016-05-04,Zaragoza
+570,Joan Montesinos-Agudo,F,1985-01-24,2009-02-11,Murcia
+571,Adán Cabeza-Lillo,F,1954-02-12,2021-08-28,Murcia
+572,Marcos Calvet,M,1979-02-21,2003-03-20,Madrid
+573,Leandro Heras Vergara,M,1992-02-21,2017-02-20,Vigo
+574,Eliseo Hernán Ochoa Guerrero,M,1980-06-27,2020-08-16,Valladolid
+575,Filomena Larrea Menéndez,M,1993-04-06,2015-10-29,Gijón
+576,Daniel Piquer,M,1952-10-14,2021-06-29,Bilbao
+577,Isabel Arteaga Mascaró,M,1991-06-30,2004-03-23,Hospitalet
+578,José María Chaparro Espinosa,M,1982-10-25,2021-10-08,Gijón
+579,Vasco Vicens Blázquez,M,1971-02-28,2009-02-23,Palma
+580,Silvestre Riquelme Adadia,F,1996-05-23,2019-04-28,Valladolid
+581,Aránzazu Heras Robles,M,1996-02-12,2001-08-09,Gijón
+582,Porfirio Zurita Camino,F,1987-10-12,2000-09-03,Alicante
+583,Eloísa Bejarano Mendoza,F,1995-12-31,2012-07-27,Gijón
+584,Saturnina Murcia Tello,F,1979-07-01,2016-09-01,Vigo
+585,Bibiana Goicoechea Amorós,F,1959-01-30,2013-11-23,Gijón
+586,Araceli Medina,M,1974-03-23,2009-09-21,Bilbao
+587,Elpidio Abella Valle,M,1973-11-07,2002-05-15,Zaragoza
+588,Marciano Machado Sanz,F,1988-04-28,2007-04-01,Bilbao
+589,Josué Marquez Menéndez,M,1970-06-10,2013-09-06,Sevilla
+590,Quirino Albano Rovira Terrón,F,1966-03-18,2011-09-14,Málaga
+591,Yago Cardona Mateos,M,1957-07-24,2004-11-03,Córdoba
+592,Miriam Carlos Lucena,F,1980-09-05,2000-02-15,Vigo
+593,María Manuela Paz Avilés,F,1998-08-26,2007-08-13,Barcelona
+594,Nando del Carvajal,F,1996-03-06,2021-12-12,Barcelona
+595,Antonio Fuente Castillo,M,1998-08-13,2019-09-16,Córdoba
+596,Filomena Puerta-Boada,M,1969-10-09,2023-07-24,Murcia
+597,Francisco Javier Espada Peñas,M,1994-05-28,2008-08-02,Bilbao
+598,Cipriano Morán Reyes,M,1992-05-22,2014-09-11,Bilbao
+599,Irma Huerta Español,M,1981-11-18,2023-05-01,Barcelona
+600,Merche Botella Vizcaíno,F,1987-01-07,2009-08-24,Zaragoza
+601,Liliana Nieto-Leal,M,1978-07-01,2004-07-30,Bilbao
+602,Encarna Quevedo Salazar,M,1965-09-01,2019-08-07,Hospitalet
+603,Victor Manuel del Carpio,F,1990-09-24,2024-02-12,Madrid
+604,Aitor Blázquez Quintero,M,2003-12-14,2020-07-02,Alicante
+605,Anna Fonseca-Tudela,M,1952-08-25,2018-01-12,Málaga
+606,Jacobo Pereira-Mármol,F,1991-11-06,2005-03-27,Bilbao
+607,Vasco Teófilo Marí Sanz,M,1969-05-10,1999-02-17,Alicante
+608,Eusebio Alarcón,M,1985-05-30,2011-10-13,Córdoba
+609,Eloy Exposito Ródenas,F,1953-02-23,2019-04-02,Murcia
+610,Emiliana Jerez-Manuel,F,1997-02-05,2023-12-15,Barcelona
+611,Maximiano Ocaña Roig,M,1982-12-22,2009-08-06,Valencia
+612,Jose Carlos Acevedo Morata,F,1966-09-05,2015-02-14,Valladolid
+613,Calisto del Frías,M,1963-06-27,2011-12-16,Madrid
+614,Renata Gelabert Sandoval,M,1968-08-19,2007-10-27,Vigo
+615,Aitor Calleja Amorós,F,2002-04-22,2016-05-27,Valencia
+616,Enrique Silva,F,1987-12-17,2003-11-13,Alicante
+617,Pascual Font Quintana,M,1965-10-07,2002-02-24,Valladolid
+618,Armando Ortuño Castro,F,2003-05-08,2015-02-14,Zaragoza
+619,Calixto Torrens Dueñas,F,1962-05-12,2002-02-28,Valencia
+620,Victor Manuel Fajardo Almansa,F,1996-05-18,2023-07-08,Hospitalet
+621,Régulo Talavera-Exposito,F,1963-01-02,2018-05-17,Vigo
+622,Irma Andres,M,1964-08-27,2020-06-12,Barcelona
+623,Viviana Alegria Carretero,F,1965-04-03,2010-09-07,Sevilla
+624,Joan Bru-Montoya,M,1967-03-09,2016-08-22,Palma
+625,Carlota Piñeiro Montenegro,M,1953-10-28,2001-10-15,Alicante
+626,Rosalina Cándida Fuente Mendez,M,1954-01-27,2015-08-26,Barcelona
+627,Marcelino Arribas-Cerezo,M,1961-10-05,2004-03-13,Zaragoza
+628,Judith Merino Mesa,F,1975-10-16,2019-02-27,Murcia
+629,Manuelita Flor Jordá Patiño,M,1997-02-27,2023-04-20,Alicante
+630,Nicodemo Antón Manrique,F,1956-11-10,2015-04-08,Alicante
+631,Mateo Moll Rebollo,F,1954-07-20,2017-02-09,Palma
+632,Asunción Cáceres Ferrándiz,M,1994-01-01,2000-01-09,Valladolid
+633,Nidia Julián Aller,M,1988-05-12,1999-10-27,Valencia
+634,Alejo Alberto Julián,F,1998-03-05,2018-07-26,Bilbao
+635,Marcos Esteve Soria,M,1985-05-08,2020-08-27,Hospitalet
+636,Máximo Ángel Cañas,F,1974-01-06,2015-05-06,Sevilla
+637,Lisandro Falcón-Silva,M,1979-12-18,2004-04-21,Gijón
+638,Celso Beltrán Sedano,M,1985-10-05,2011-06-13,Valencia
+639,Domingo Delgado Fuentes,M,1950-10-06,2008-08-05,Bilbao
+640,Oriana Morera Roselló,M,1961-03-07,2012-11-28,Gijón
+641,Toribio Torrecilla Garzón,M,1991-04-19,2018-09-17,Alicante
+642,Eugenio Oller,M,1956-06-19,2003-02-25,Gijón
+643,Morena Riquelme Goicoechea,M,1971-12-05,2019-05-03,Gijón
+644,Olga Canet Jódar,F,1955-05-28,2016-04-12,Palma
+645,Adelardo Diez-Reina,F,1980-04-24,2016-10-23,Vigo
+646,Pastora del Arnaiz,F,2001-10-19,2016-05-31,Murcia
+647,Aurora Herranz Arroyo,F,1995-05-27,2003-02-27,Bilbao
+648,Ricardo Guillén Camino,M,1986-04-23,2018-07-14,Madrid
+649,Priscila Sanjuan Tur,F,1999-05-11,2004-03-22,Málaga
+650,Cristian Santamaría Olivera,M,1958-12-29,2005-12-05,Málaga
+651,Roque Alonso Bas,M,1958-04-02,2013-08-22,Hospitalet
+652,Rolando Carranza Cánovas,F,1969-02-09,1999-02-05,Bilbao
+653,Rosa Larrañaga Luís,F,2003-09-28,2011-10-29,Zaragoza
+654,Nydia del Bellido,M,1979-05-25,2020-11-20,Valencia
+655,Valentín Agustí,F,1989-05-29,2022-09-06,Zaragoza
+656,Julio Vaquero Garmendia,M,1998-03-07,1999-05-10,Hospitalet
+657,Matías Serna Aragonés,F,1951-02-03,2009-10-16,Bilbao
+658,Glauco Pomares Paredes,M,1954-02-08,2018-09-30,Alicante
+659,Flora Santamaría-Carrasco,F,1972-05-08,2019-06-15,Alicante
+660,Miriam Ballester Jiménez,F,1955-02-13,2007-10-16,Málaga
+661,Julia Manzano Navas,F,1961-10-15,2022-09-08,Vigo
+662,Pacífica Echeverría Pardo,M,1954-07-04,2013-10-14,Zaragoza
+663,Natalia Calderón Palma,F,1976-08-31,2013-08-07,Bilbao
+664,Darío Marín Landa,M,1976-01-22,2024-02-08,Murcia
+665,Pili Castro Sarmiento,F,1992-07-17,2009-03-30,Córdoba
+666,Teresa Olivares Cazorla,M,1979-02-14,2001-01-18,Córdoba
+667,Arsenio Vilalta Dávila,F,1992-08-13,2006-12-18,Vigo
+668,Isaías Pont Parra,F,1997-05-11,2016-02-04,Barcelona
+669,José Losada Sevilla,F,1981-10-19,2016-11-01,Córdoba
+670,Pío Serra,F,1992-09-22,2003-05-17,Madrid
+671,Eugenia Camino,M,1970-06-28,2003-07-07,Barcelona
+672,Agustina Iñiguez-Bautista,F,1998-10-26,2009-06-16,Murcia
+673,Evita Valera,F,1958-12-17,2006-08-02,Madrid
+674,Juana Font Plaza,M,1972-05-26,2004-01-08,Córdoba
+675,Teodoro Figueroa Bosch,F,1979-11-04,2019-11-01,Málaga
+676,Adelaida Mancebo Dávila,M,1991-11-08,2002-06-30,Valladolid
+677,Alejandra de Baños,F,1963-10-28,2021-10-06,Gijón
+678,Gervasio Martinez-Meléndez,F,1962-10-06,2008-01-15,Palma
+679,Sabina Castellanos,M,1999-10-31,2001-04-14,Bilbao
+680,Alejandro Antón Barrera,F,1953-05-28,2013-02-09,Málaga
+681,Ramona Girón Casares,M,1967-02-14,2013-04-01,Sevilla
+682,Nidia Campillo Abascal,M,1998-07-18,2019-11-27,Barcelona
+683,Ruth Remedios Pizarro Quintanilla,M,1950-06-14,2012-03-24,Vigo
+684,Laura Sanjuan Rojas,M,1975-12-23,2004-11-08,Palma
+685,Eloísa Barriga-Revilla,M,1954-07-13,2012-05-31,Murcia
+686,Darío Nacio Cardona Izaguirre,F,1981-01-02,2021-02-27,Bilbao
+687,Lorena Serna Viñas,F,1994-09-19,2000-06-01,Valencia
+688,Jorge Diéguez Alberola,F,1989-12-15,2023-07-16,Valladolid
+689,Segismundo Valenciano Sancho,M,1954-08-24,2022-07-14,Zaragoza
+690,Virgilio Rafael Millán Leon,M,1984-07-09,2013-04-28,Málaga
+691,María Dolores Abad Figuerola,M,1995-04-22,2002-12-15,Valladolid
+692,Nadia Mercader Lluch,F,1957-08-03,2014-07-02,Valencia
+693,Alonso del Canals,M,1970-08-12,2014-05-18,Valencia
+694,Marcia Luisa Prieto Bastida,F,2000-08-26,2011-12-06,Málaga
+695,Noelia Vélez Cadenas,M,1964-05-25,1999-09-20,Gijón
+696,Angelita Tejero Carretero,M,2001-09-13,2012-03-11,Barcelona
+697,Domitila Gracia-Asenjo,F,1966-02-14,2015-06-14,Murcia
+698,Azahar Sureda Díez,M,1984-09-23,2009-12-17,Palma
+699,Susana Ballester Castells,M,1965-07-07,2014-08-22,Bilbao
+700,Guiomar Vara Sedano,M,1970-11-08,2007-11-02,Valladolid
